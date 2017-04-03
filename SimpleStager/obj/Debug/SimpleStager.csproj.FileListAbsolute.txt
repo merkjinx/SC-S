@@ -1,0 +1,8 @@
+c:\users\merk\documents\visual studio 2015\Projects\SimpleStager\SimpleStager\bin\Debug\SimpleStager.exe.config
+c:\users\merk\documents\visual studio 2015\Projects\SimpleStager\SimpleStager\bin\Debug\SimpleStager.exe
+c:\users\merk\documents\visual studio 2015\Projects\SimpleStager\SimpleStager\bin\Debug\SimpleStager.pdb
+c:\users\merk\documents\visual studio 2015\Projects\SimpleStager\SimpleStager\obj\Debug\SimpleStager.Form1.resources
+c:\users\merk\documents\visual studio 2015\Projects\SimpleStager\SimpleStager\obj\Debug\SimpleStager.Properties.Resources.resources
+c:\users\merk\documents\visual studio 2015\Projects\SimpleStager\SimpleStager\obj\Debug\SimpleStager.csproj.GenerateResource.Cache
+c:\users\merk\documents\visual studio 2015\Projects\SimpleStager\SimpleStager\obj\Debug\SimpleStager.exe
+c:\users\merk\documents\visual studio 2015\Projects\SimpleStager\SimpleStager\obj\Debug\SimpleStager.pdb
